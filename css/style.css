@@ -504,6 +504,7 @@ h6 {
 
 p {
   margin-top: 0;
+  font-size: 12px;
   margin-bottom: 10px;
 }
 
@@ -4542,6 +4543,7 @@ figure {
 
 .footer-link-two {
   color: #1a1b1f;
+  font-size: 14px;
   margin-top: 20px;
   text-decoration: none;
 }
